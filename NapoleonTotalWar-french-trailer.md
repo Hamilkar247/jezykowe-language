@@ -1,21 +1,20 @@
-Mes enemies sont en preux,
+Mes ennemies sont nombreux
 mais je n'ai pas d'égal.
 
-À l'ombre des olivies,
-ils disaient que l'Italie ne serait jamais conquise. (Preparez-vous l'attaque!)
-
+À l'ombre des oliviers
+ils disaient que l'Italie ne serait jamais conquise. (Preparez-vous à l'attaque!)
 
 Dans la vallée des pharaons,
 ils disaient que l'Egypte ne serait jamais vaincu.
 
 Depuis les fôrets enneigés,
-ils disaient que la Russie ne serait jamais conté. (Je vois un blessé là aussi!)
+ils disaient que la Russie ne serait jamais dompté. (Choisissez vos cibles!)
 
-Des armées le dis plu rien...
+Désormais ils ne disent plus rien...
 Ils me craignent comme ils craignent un cataclysme,
 la foudre et la mort...
 
 Je suis... Napoléon,
 Je suis empereur!
 
-Brûlez-eux!
+Brûlez le!
