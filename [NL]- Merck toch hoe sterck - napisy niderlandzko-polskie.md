@@ -1,16 +1,51 @@
-
-
 0:00:10.994,0:00:14.440
 Merck toch hoe sterck nu in 't werck sich al steld,
+Zauważ jak silnie wszyscy nad tym teraz działamy!
+
+[Merck st.hol.-> wsp. Merk- czas.Zauważ, rzecz. marka]
+[toch - 1)jednak 2)podkreśla słowo za nim - tutaj silny]
+[Sterck st.hol.-> wsp. Sterk - silny ]
+[nu - teraz (eng,now)]
+['t - skrót od. `het` - 3os.nij - to]
+[werck st.hol.-> wsp.werk - pracować]
+[sich st.hol. - wsp. zich]
+[steld - przeszły. stellen - twierdzić stawiać]
+[zich stellen - zajmować stanowisko
 
 0:00:14.440,0:00:20.274
 Die 't allen tijd' so ons vrijheit heeft bestreden.
+Dla wszystkich nas nadszedł czas walczyć o wolność
+
+[Die - odpowiednik this/that]
+['t - skrót od het - to (3os.lpoj. nij)]
+[allen - wszystko wszyscy {eng. all ger. alles}]
+[heeft od czas. hebben - mieć - hij/zok/het heeft]
+[tijd' - tijd to czas (, ale nie wiem co oznacza apostrof tutaj)]
+[vrijheit - wolność (eng.freedom, ger. freiheit)]
+[bestreden - walczyć przeciwko komuś
+3formy bestrijden, besteed, bestreden]
 
 0:00:20.274,0:00:24.863
 Siet hoe hij slaeft, graeft en draeft met geweld,
+Widzisz jak on  zniewola, kopie i maszeruje pod przemocą.
+
+[Siet st.hol. -> Zien - widzieć  (eng. see, ger sehen)]
+[hoe - jak (eng. how ger.wie)]
+[slaeft, graeft, draeft sthol. - wsp. slaaft, graaft, draaft]
+[slaaft - od slaven - on zniewala, niewolnik]
+[graaft - od graven - on kopać]
+[draaft - od draven  - on  maszeruje (eng marches)]
+[met geweld - z/pod przemocą]
 
 0:00:24.863,0:00:30.156
 Om onse goet en ons bloet en onse steden.
+Dla naszego dobra i naszej krwii i naszych miast
+
+[Om - do ,dookoła, dla]
+[en - i ]
+[bloet st.hol. -> wsp. bloed - krew (eng. blood, ger.  blut)]
+[goet st.hol. -> goed - dobry (eng. good, ger. gut)]
+[steden - miasta, od słowa stad - miasto]
 
 0:00:30.156,0:00:34.193
 Hoort de Spaensche trommels slaen!
