@@ -2,55 +2,152 @@
 Wo alle Straßen enden
 Hört unser Weg nicht auf
 
+Gdzie wszystkie drogi się kończą
+Słyszymy, że nasza droga się nie kończy
+
+[alle - wszystko][Straßen - 1.ulice 2.drogi]
+[hört --> hören - słyszeć][unser - naszej][Weg - droga]
+[Weg nicht auf - droga się nie kończy?]
+
 0:00:20.500,0:00:28.547
 Wohin wir uns auch wenden
 Die Zeit nimmt ihren Lauf
+
+Gdzie my się nie obrócimy
+Czas szybko upływa
+(dosł. czas biegiem upływa)
+
+[Wohin -dosł. dokąd, tutaj pasuje pl. gdzie]
+[uns-nam][wenden - zawracać]
+[Die Zeit - czas][nimmt->nehmen -wziąć, brać]
+[lauf-biec->laufen-biegać]
 
 0:00:28.547,0:00:35.964
 Das Herz verbrannt
 Im Schmerz verbannt
 
+Palące serce
+i ten palący ból
+
+[Das Herz - serce][verbrannt - przypalony]
+[der Schmerz - ból]
+
 0:00:35.964,0:00:44.734
 So ziehen wir verloren durch das graue Niemandsland
+
+Tak więc błąkamy się przez tą szarą niczyją ziemie
+
+[So ...-tak więc ..][ziehen - ciągnąć,wciągać]
+[verloren - zgubiony, staracony, tutaj akurat pasuje zbłąkany]
+[durch - przez, poprzez]
 
 0:00:44.734,0:00:52.752
 Vielleicht kehrt von uns keiner mehr zurück ins Heimatland
 
+Może nikt z nas nie wróci z powrotem do domu (rodzinnego miasta)
+
+[Vielleicht - może][kehrt - zamiatać, zawracać]
+[Heimatland - ojczyzna(mała), Fatherland - ojczyzna(państwo/imperium)]
+[zurück - z powrotem]
+
 0:01:00.000,0:01:09.642
 Zu Vater, Mutter, Schwester
-Geht einzig unser Sinn
+Geht einzig unser Sinn.
+
+Do ojca, matki, siostry
+Idą jedynie nasze myśli.
+(dosł. Idą jedynie nasze zmysły)
+
+[einzig - jedynie][unser - nasze]
+[Sinn - sens, zmysł - tutaj myśl]
 
 0:01:09.642,0:01:17.058
 Beim Kanonenorchester
 Hier gibt es kein' Gewinn
 
+W trakcie kanonady artyleryjskiej
+Tutaj nie znajdziesz zwycięstwa
+
+[Beim - na (coś), w trakcie (czegoś)]
+[Gewinnen - wygrywać][Gewinn - zysk, wygrana]
+[es gibt - jest, znajduje się - używamy gdy informuje o istnieniu czegoś]
+
 0:01:17.058,0:01:25.115
 Hauptmann befiehl!
 Auf, ran ans Ziel!
 
+Kapitan rozkazał!
+Już ! do celu !
+
+[Hauptman - kapitan][befehlen - polecać, rozkazywać]
+[Ziel - cel][ger. ran - pl. tu, podchodzić bliżej (jest to slang)]
+
 0:01:25.115,0:01:33.094
 So geben wir in Treue für den Kaiser unser Blut,
 
+I tak oddaliśmy oddanie kajzerowi naszą krew.
+(dosł. Tak daliśmy my wiernie dla Kajzera naszą krew.)
+
+[Kaiser - cesarz][So ... - tak więc ..]
+[Treu - wierny][Treue - wierność]
+
 0:01:33.094,0:01:41.878
 Im blutigen Gewitter der verfluchten Franzmannbrut.
+
+W krwawej burzy przeklętych francuskich hord.
+
+[blutigen - krwawiący][Gewitter - burza]
+[verfluchten - przeklinać][Franzmannbrut- francuska horda, żabojady]
 
 0:01:49.324,0:01:58.147
 Die Feldpost ist verschollen
 Der Schlamm ist knöcheltief
 
+Poczta polowa zagineła,
+A szlam sięga po kostki
+
+[Feldpost - poczta polowa][verscholen - zaginiony]
+[Schlamm - błoto][knöcheltief - do kostek(sięga)]
+
 0:01:58.147,0:02:05.304
 Man isst nur Wurzelknollen
 Es riecht der Leichen Mief
+
+Jemy tylko korzonki.
+Tutaj czuć trupi odór
+
+[Wurzel - bulwa][knollen - bulwa]
+[riecht - pachnieć, czuć][leichen - zwłoki, trup]
+[mief - odor, smród]
 
 0:02:05.304,0:02:13.942
 Wir sind verlor´n
 Im Wind erfror´n
 
+Jesteśmy zgubieni
+Na wiatrze zamarzamy
+
+[der Wind - wiatr][verloren - zgubieni/zabłąkani]
+[erfroren - zamarzać]
+
 0:02:13.942,0:02:22.278
 Herzliebste, uns schon trennt bereits ein ganzes langes Jahr,
 
+Ma najdroższa, jesteśmy już rozdzieleni już cały długi rok.
+
+[Herzliebste - ma najdroższa][trennen - oddzieleni, rozdzieleni]
+[bereit - gotowy][ganzes - cały][lang - długi]
+[Jahr - rok][schon - już]
+
 0:02:22.278,0:02:30.271
 Doch auch im Osten braucht es Schutz vor wilder Russenschar
+
+Ale na wschodzie też potrzebują pomocy, z dzikimi hordami rosjan
+
+[doch - jednak, (tutaj pasuje też jednak)]
+[brauchen - potrzebować][schutz - ochrony, (tutaj pasuje też pomoc)]
+[wilder - dzicy][Russenchar - coś z rosjanami - ale nie wiem co oznacza char dokładnie]
+[vor - przed (tutaj pasuję bardziej z)]
 
 0:02:38.089,0:02:45.907
 Die Wolken zieh'n nach Osten,
@@ -80,8 +177,7 @@ Wir sind verloren.
 
 0:03:27.746,0:03:35.114
 So geh ich auf und nieder
-beschau die Leichenschar,
-https://lyricstranslate.com
+beschau die Leichenschar
 
 0:03:35.114,0:03:44.834
  Die gestern um die Stunde
