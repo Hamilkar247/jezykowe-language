@@ -2,13 +2,13 @@
 Merck toch hoe sterck nu in 't werck sich al steld,
 Zauważ jak silnie wszyscy nad tym teraz działamy!
 
-[Merck st.hol.-> wsp. Merk- czas.Zauważ, rzecz. marka]
+[Merck st.nl.-> wsp. Merk- czas.Zauważ, rzecz. marka]
 [toch - 1)jednak 2)podkreśla słowo za nim - tutaj silny]
-[Sterck st.hol.-> wsp. Sterk - silny ]
+[Sterck st.nl.-> wsp. Sterk - silny ]
 [nu - teraz (eng,now)]
 ['t - skrót od. `het` - 3os.nij - to]
-[werck st.hol.-> wsp.werk - pracować]
-[sich st.hol. - wsp. zich]
+[werck st.nl.-> wsp.werk - pracować]
+[sich st.nl. - wsp. zich]
 [steld - przeszły. stellen - twierdzić stawiać]
 [zich stellen - zajmować stanowisko
 
@@ -29,7 +29,7 @@ Dla wszystkich nas nadszedł czas walczyć o wolność
 Siet hoe hij slaeft, graeft en draeft met geweld,
 Widzisz jak on  zniewola, kopie i maszeruje pod przemocą.
 
-[Siet st.hol. -> Zien - widzieć  (eng. see, ger sehen)]
+[Siet st.nl. -> Zien - widzieć  (eng. see, ger sehen)]
 [hoe - jak (eng. how ger.wie)]
 [slaeft, graeft, draeft sthol. - wsp. slaaft, graaft, draaft]
 [slaaft - od slaven - on zniewala, niewolnik]
@@ -43,30 +43,69 @@ Dla naszego dobra i naszej krwii i naszych miast
 
 [Om - do ,dookoła, dla]
 [en - i ]
-[bloet st.hol. -> wsp. bloed - krew (eng. blood, ger.  blut)]
-[goet st.hol. -> goed - dobry (eng. good, ger. gut)]
+[bloet st.nl. -> wsp. bloed - krew (eng. blood, ger.  blut)]
+[goet st.nl. -> goed - dobry (eng. good, ger. gut)]
 [steden - miasta, od słowa stad - miasto]
 
 0:00:30.156,0:00:34.193
 Hoort de Spaensche trommels slaen!
+Słysząc bicię hiszpańskich bębnów rytm!
+
+[Hoort - słyszeć]
+[st.nl. Spaensche --> nl. Spaansche - Hiszpańskie]
+[nl. trommels - bębny]
+[st.nl. slaen -> nl. slaan = pl. bić]
 
 0:00:34.193,0:00:38.357
 Hoort Maraens trompetten!
+Słysząc trąbki maurów!
+(Hiszpanie używali zdobycznych trąb z płn. Afryki)
+
+[Hoort - słyszeć]
+[st.nl. Maraens - pl. Maurowie]
+[trompetten - trąbki]
 
 0:00:38.357,0:00:42.402
 Siet hoe komt hij trecken aen,
+Widzisz jak on wraca 
+
+[Siet st.nl. = nl. Zien - widzieć]
+[hoe - jak (eng. how ger.wie)]
+[komt od komen - pochodzić/wracać
+[st.nl. aen = nl. een - rodzajnik nieokreoślony]
 
 0:00:42.402,0:00:46.284
 Bergen te bezetten.
+Zajęli Bergen
+
+[Bergen - miasto Bergen]
+[te bezetten - zostaje okupowane]
 
 0:00:46.284,0:00:50.153
 Berg op Zoom hout u vroom,
+Berg wzrasta silniej w wierze
+
+[śr.nl. vroom - pobożny, święty]
+[śr.nl. hout - drewno, silnie, zostaje]
 
 0:00:50.153,0:00:54.034
-Stut de Spaensche scharen;
+Stut de Spaensche scharen.
+Opierać się hiszpańskim hordom.
+
+[st.nl. Spaensche --> nl. Spaansche - Hiszpańskie]
+[scharen - 1. nożyce 2. zbierać się, gromada]
+[stut --> stutten - podpierać się/opierać się
 
 0:00:54.034,0:00:58.323
 Laet 's Lands boom end' sijn stroom
+Pozwólmy drzewom naszych lasów i naszym kanałom.
+
+[śr.nl.laet --> nl. laten = pozwalać - ang.let, niem.lassen]
+['t - skrót od. `het` - 3os.nij - to]
+[end -> enden - 
+[nl. boom = pl. drzewo]
+[stroom - strumień/kanał]
+[śr.nl. sijn = nl. zijn - czasownik - być]
 
 0:00:58.323,0:01:02.001
 Trouwlijck doen bewaren!
