@@ -9,4 +9,5 @@ prefix do issue - mysle że jako
 [UKR] ukraiński
 [CRO] chorwacki
 [PHO] fenicki
+[NL] niderlandzki
 
