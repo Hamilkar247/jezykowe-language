@@ -1,14 +1,18 @@
 0:00:02.890,0:00:04.945
 Aut Caesar aut nihil,
+Albo Cezar albo nic
 
 0:00:04.945,0:00:07.517
 Hic abundant leones,
+Tutaj (gdzie) lwy obfitują,
 
 0:00:07.517,0:00:10.435
 Hic sunt leones,
+Tutaj (gdzie) są lwy.
 
 0:00:10.435,0:00:13.332
-iacta alea  est!
+iacta alea est!
+Kości zostały rzucone
 
 0:00:13.332,0:00:16.534
 Aut Caesar aut nihil,
